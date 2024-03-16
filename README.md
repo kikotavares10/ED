@@ -1,2 +1,2 @@
 # ED
-Data Structures, 2º Year, 1º Semester
+Here is my entire class organized by my Practical Classes. Each folder has the exercises that we coded.
